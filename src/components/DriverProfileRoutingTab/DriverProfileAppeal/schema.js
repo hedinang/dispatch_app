@@ -1,0 +1,25 @@
+export default {
+  DEFAULT: {
+    fields: [
+      {name: "id", label: "ID"},
+      {name: "driver_id", label: "DRIVER ID"},
+      {name: "user_id", label: "USER ID"},
+      {name: "status", label: "STATUS"},
+      {name: "created_ts", label: "CREATE"},
+      {name: "updated_ts", label: "UPDATE"},
+      {name: "reason", label: "REASON"},
+      {name: "driver_card_id", label: "LICENSE"},
+      {name: "name", label: "NAME"},
+      {name: "phone_number", label: "PHONE"},
+      {name: "email", label: "EMAIL"},
+      {name: "termination_id", label: "TERMINATION ID"},
+      {name: "user_name", label: "USER NAME"},
+      {name: "driver_name", label: "DRIVER NAME"},
+      {name: "driver_email", label: "DRIVER EMAIL"},
+      {name: "termination_type", label: "TERMINATION TYPE"},
+      {name: "termination_reason", label: "TERMINATION REASON"},
+      {name: "termination_category", label: "TERMINATION CATEGORY"},
+      {name: "termination_status", label: "TERMINATION STATUS"},
+    ],
+  },
+}

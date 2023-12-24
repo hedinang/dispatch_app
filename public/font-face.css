@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'AvenirNext';
+  src: url('assets/fonts/AvenirNext-Regular.eot'), url('assets/fonts/AvenirNext-Regular.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AvenirNext-Regular.woff2') format('woff2'), url('assets/fonts/AvenirNext-Regular.woff') format('woff'), url('assets/fonts/AvenirNext-Regular.otf') format('opentype'), url('assets/fonts/AvenirNext-Regular.ttf') format('truetype'), url('assets/fonts/AvenirNext-Regular.svg#@Lato') format('svg');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'AvenirNext';
+  src: url('assets/fonts/AvenirNext-Medium.eot'), url('assets/fonts/AvenirNext-Medium.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AvenirNext-Medium.woff2') format('woff2'), url('assets/fonts/AvenirNext-Medium.woff') format('woff'), url('assets/fonts/AvenirNext-Medium.ttf') format('truetype'), url('assets/fonts/AvenirNext-Medium.svg#@Lato') format('svg');
+  font-weight: 500 600;
+}
+
+@font-face {
+  font-family: 'AvenirNext';
+  src: url('assets/fonts/AvenirNext-DemiBold.eot'), url('assets/fonts/AvenirNext-DemiBold.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AvenirNext-DemiBold.woff2') format('woff2'), url('assets/fonts/AvenirNext-DemiBold.woff') format('woff'), url('assets/fonts/AvenirNext-DemiBold.otf') format('opentype'), url('assets/fonts/AvenirNext-DemiBold.ttf') format('truetype'), url('assets/fonts/AvenirNext-DemiBold.svg#@Lato') format('svg');
+  font-weight: 700 900;
+}
+
+@font-face {
+  font-family: 'AvenirNext-Medium';
+  src: url('assets/fonts/AvenirNext-Medium.eot');
+  src: url('assets/fonts/AvenirNext-Medium.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AvenirNext-Medium.woff2') format('woff2'), url('assets/fonts/AvenirNext-Medium.woff') format('woff'), url('assets/fonts/AvenirNext-Medium.otf') format('opentype'), url('assets/fonts/AvenirNext-Medium.ttf') format('truetype'), url('assets/fonts/AvenirNext-Medium.svg#@Lato') format('svg')
+}
+
+@font-face {
+  font-family: 'AvenirNext-Bold';
+  src: url('assets/fonts/AvenirNext-Bold.eot');
+  src: url('assets/fonts/AvenirNext-Bold.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AvenirNext-Bold.woff2') format('woff2'), url('assets/fonts/AvenirNext-Bold.woff') format('woff'), url('assets/fonts/AvenirNext-Bold.otf') format('opentype'), url('assets/fonts/AvenirNext-Bold.ttf') format('truetype'), url('assets/fonts/AvenirNext-Bold.svg#@Lato') format('svg')
+}
+
+@font-face {
+  font-family: 'AvenirNext-Italic';
+  src: url('assets/fonts/AvenirNext-Italic.eot');
+  src: url('assets/fonts/AvenirNext-Italic.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AvenirNext-Italic.woff2') format('woff2'), url('assets/fonts/AvenirNext-Italic.woff') format('woff'), url('assets/fonts/AvenirNext-Italic.otf') format('opentype'), url('assets/fonts/AvenirNext-Italic.ttf') format('truetype'), url('assets/fonts/AvenirNext-Italic.svg#@Lato') format('svg')
+}
+
+@font-face {
+  font-family: 'AvenirNext-DemiBold';
+  src: url('assets/fonts/AvenirNext-DemiBold.eot');
+  src: url('assets/fonts/AvenirNext-DemiBold.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AvenirNext-DemiBold.woff2') format('woff2'), url('assets/fonts/AvenirNext-DemiBold.woff') format('woff'), url('assets/fonts/AvenirNext-DemiBold.otf') format('opentype'), url('assets/fonts/AvenirNext-DemiBold.ttf') format('truetype'), url('assets/fonts/AvenirNext-DemiBold.svg#@Lato') format('svg')
+}
+
+@font-face {
+  font-family: 'AvenirNext-MediumItalic';
+  src: url('assets/fonts/AvenirNext-MediumItalic.eot');
+  src: url('assets/fonts/AvenirNext-MediumItalic.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AvenirNext-MediumItalic.woff2') format('woff2'), url('assets/fonts/AvenirNext-MediumItalic.woff') format('woff'), url('assets/fonts/AvenirNext-MediumItalic.otf') format('opentype'), url('assets/fonts/AvenirNext-MediumItalic.ttf') format('truetype'), url('assets/fonts/AvenirNext-MediumItalic.svg#@Lato') format('svg')
+}
+
+@font-face {
+  font-family: 'AvenirNext-UltraLight';
+  src: url('assets/fonts/AvenirNext-UltraLight.eot');
+  src: url('assets/fonts/AvenirNext-UltraLight.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AvenirNext-UltraLight.woff2') format('woff2'), url('assets/fonts/AvenirNext-UltraLight.woff') format('woff'), url('assets/fonts/AvenirNext-UltraLight.otf') format('opentype'), url('assets/fonts/AvenirNext-UltraLight.ttf') format('truetype'), url('assets/fonts/AvenirNext-UltraLight.svg#@Lato') format('svg')
+}
+
+@font-face {
+  font-family: 'AvenirNextLTPro-Heavy';
+  src: url('assets/fonts/AvenirNextLTPro-Heavy.eot');
+  src: url('assets/fonts/AvenirNextLTPro-Heavy.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AvenirNextLTPro-Heavy.woff2') format('woff2'), url('assets/fonts/AvenirNextLTPro-Heavy.woff') format('woff'), url('assets/fonts/AvenirNextLTPro-Heavy.otf') format('opentype'), url('assets/fonts/AvenirNextLTPro-Heavy.ttf') format('truetype'), url('assets/fonts/AvenirNextLTPro-Heavy.svg#@Lato') format('svg')
+}
+
+@font-face {
+  font-family: 'AvenirNext-DemiBoldItalic';
+  src: url('assets/fonts/AvenirNext-DemiBoldItalic.eot');
+  src: url('assets/fonts/AvenirNext-DemiBoldItalic.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AvenirNext-DemiBoldItalic.woff2') format('woff2'), url('assets/fonts/AvenirNext-DemiBoldItalic.woff') format('woff'), url('assets/fonts/AvenirNext-DemiBoldItalic.otf') format('opentype'), url('assets/fonts/AvenirNext-DemiBoldItalic.ttf') format('truetype'), url('assets/fonts/AvenirNext-DemiBoldItalic.svg#@Lato') format('svg')
+}
+
+@font-face {
+  font-family: 'AzoSans';
+  src: url('assets/fonts/AzoSans-Regular.eot');
+  src: url('assets/fonts/AzoSans-Regular.eot?#iefix') format('embedded-opentype'), url('assets/fonts/AzoSans-Regular.woff') format('woff'), url('assets/fonts/AzoSans-Regular.otf') format('opentype'), url('assets/fonts/AzoSans-Regular.ttf') format('truetype'), url('assets/fonts/AzoSans-Regular.svg#@Lato') format('svg')
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('assets/fonts/Lato-Regular.eot');
+  src: url('assets/fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'), url('assets/fonts/Lato-Regular.woff2') format('woff2'), url('assets/fonts/Lato-Regular.woff') format('woff'), url('assets/fonts/Lato-Regular.otf') format('opentype'), url('assets/fonts/Lato-Regular.ttf') format('truetype'), url('assets/fonts/Lato-Regular.svg#@Lato') format('svg')
+}
+
+@font-face {
+  font-family: 'Lato-Bold';
+  src: url('assets/fonts/Lato-Bold.eot');
+  src: url('assets/fonts/Lato-Bold.eot?#iefix') format('embedded-opentype'), url('assets/fonts/Lato-Bold.woff2') format('woff2'), url('assets/fonts/Lato-Bold.woff') format('woff'), url('assets/fonts/Lato-Bold.otf') format('opentype'), url('assets/fonts/Lato-Bold.ttf') format('truetype'), url('assets/fonts/Lato-Bold.svg#@Lato') format('svg')
+}

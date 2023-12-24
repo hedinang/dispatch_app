@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="95px" viewBox="0 0 95 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>90E2D52A-D9E5-43EA-A53D-99F05D00E680</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M94.257191,47.1285955 C94.257191,73.1568363 73.1568363,94.257191 47.1285955,94.257191 C21.1003548,94.257191 0,73.1568363 0,47.1285955 C0,21.1003548 21.1003548,0 47.1285955,0 C73.1568363,0 94.257191,21.1003548 94.257191,47.1285955" id="path-1"></path>
+    </defs>
+    <g id="Log-In" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-593.000000, -337.000000)">
+        <g id="Group" transform="translate(390.000000, 287.000000)">
+            <g id="Group-2" transform="translate(203.000000, 50.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#2A2444" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)" stroke="#FFFFFF" stroke-width="5">
+                    <g transform="translate(-0.525866, 25.241546)">
+                        <path d="M68.3013094,0.316833988 L68.3013094,46.7102695" id="Stroke-3"></path>
+                        <path d="M104.890297,19.3907659 C42.578912,14.9529866 0.32824527,46.532264 0.32824527,46.532264 L46.3661957,0.494313607 L46.3661957,46.352657" id="Stroke-5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

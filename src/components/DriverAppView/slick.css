@@ -1,0 +1,29 @@
+.slick-slide.slick-active {
+  margin: 4px;
+}
+
+.slick-prev,
+.slick-next {
+  display: none !important;
+}
+
+.custom-prevArrow,
+.custom-nextArrow {
+    position: absolute;
+    top: 100%;
+    z-index: 1;
+}
+.custom-prevArrow {
+   left: 0;
+}
+.custom-nextArrow {
+  right: 0;
+}
+.custom-prevArrow:hover,
+.custom-nextArrow:hover {
+  cursor: pointer;
+}
+
+.arrow-hiden {
+  display: none !important;
+}

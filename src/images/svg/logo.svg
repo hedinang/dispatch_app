@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="154" height="52" viewBox="0 0 154 52">
+    <defs>
+        <path id="a" d="M51.345 25.673c0 14.178-11.494 25.672-25.672 25.672C11.494 51.345 0 39.851 0 25.673 0 11.494 11.494 0 25.673 0 39.85 0 51.345 11.494 51.345 25.673"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#4A4A4A" font-family="AvenirNext-Medium, Avenir Next" font-size="24" font-weight="400" letter-spacing="-.148">
+            <tspan x="60.321" y="35.25">AxleHire</tspan>
+        </text>
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#2A2444" xlink:href="#a"/>
+        <g stroke="#FFF" stroke-width="2.813" mask="url(#b)">
+            <path d="M36.92 13.923v25.272M37.125 14.25V39M56.851 24.313C22.908 21.895-.108 39.098-.108 39.098l25.079-25.079V39"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="195px" height="242px" viewBox="0 0 195 242" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 29</title>
+    <defs>
+        <filter x="-6.8%" y="-5.4%" width="113.6%" height="110.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"
+                result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="v-2.0-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-29" transform="translate(9.000000, 9.000000)">
+            <g id="Icon/Pin/Entrance/Selected-Copy-2" filter="url(#filter-1)">
+                <g id="Group-10">
+                    <path
+                        d="M88.5,0 C137.3772,0 177,38.6653363 177,86.3614458 C177,108.827637 168.209003,129.290196 153.800675,144.652146 L89.8828125,224 L85.734375,224 L23.7614202,145.245875 C9.01995961,129.819384 0,109.118323 0,86.3614458 C0,38.6653363 39.6227996,0 88.5,0 Z"
+                        id="Combined-Shape" fill="#BFBFBF"></path>
+                    <ellipse id="Oval" fill="#FFFFFF" cx="88.9392361" cy="83.7" rx="62.9947917" ry="61.5"></ellipse>
+                </g>
+            </g>
+            <text id="P" font-family="AvenirNext-DemiBold, Avenir Next" font-size="85" font-weight="500"
+                letter-spacing="1.19" fill="#BFBFBF">
+                <tspan x="68" y="112">P</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

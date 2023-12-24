@@ -1,0 +1,1 @@
+export const isNumeric = (num) => /^-{0,1}\d*\.{0,1}\d+$/.test(num);

@@ -1,0 +1,1 @@
+export const DRIVER_TAGS = ['NEW - 1ST ROUTE', 'NEW']

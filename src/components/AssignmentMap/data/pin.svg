@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="42" viewBox="0 0 31 42">
+    <defs>
+        <linearGradient id="aclzukduta" x1="50%" x2="50%" y1="12.121%" y2="83.459%">
+            <stop offset="0%" stop-opacity="0"/>
+            <stop offset="100%"/>
+        </linearGradient>
+        <filter id="n7rtb81w8b" width="163.2%" height="148%" x="-31.6%" y="-24%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="2"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-964 -717) translate(632 243) translate(332 451) translate(0 23)">
+                        <path fill="url(#aclzukduta)" d="M24.586 15.754C25.953 13.128 23.824 11 19.829 11c-3.994 0-8.341 2.128-9.71 4.754-1.367 2.625.762 4.753 4.757 4.753 3.995 0 8.342-2.128 9.71-4.753zm-8.906 4.753L7.607 36H6l8.072-15.493h1.608z" filter="url(#n7rtb81w8b)"/>
+                        <ellipse cx="7" cy="35" fill="#000" rx="2" ry="1"/>
+                        <path fill="#AAACAF" d="M6 13H8V35H6z"/>
+                        <circle cx="7" cy="7" r="7" fill="#E30505"/>
+                        <circle cx="5.5" cy="4.5" r="1.5" fill="#FFF"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+node_modules
+.idea/
+package-lock.json
+build/
+.DS_Store
+.vscode/
+report*.json
+*.iml
+*.bak
+.env
+.env.local

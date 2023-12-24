@@ -1,0 +1,16 @@
+{
+    "id": 3752140,
+    "timezone": "America/Los_Angeles",
+    "region": "LAX",
+    "customer_name": "Alan Santiago",
+    "phone_number": "+16267223756",
+    "tracking_code": "mmmjh4su",
+    "dropoff_street": "1130 north San Dimas Ave",
+    "dropoff_city": "San dimas",
+    "dropoff_state": "CA",
+    "dropoff_zipcode": "91773",
+    "dropoff_earliest_ts": "2018-12-19T16:00:00.000Z",
+    "dropoff_latest_ts": "2018-12-20T03:00:00.000Z",
+    "client_id": 49,
+    "client_name": "HelloFresh"
+}

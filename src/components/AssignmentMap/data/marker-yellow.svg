@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 984 860" style="enable-background:new 0 0 984 860;" xml:space="preserve">	 
+	<style>
+    	.huge { font: 116px sans-serif; text-align: 'center' }
+	</style>
+	<g>
+		<circle cx='164' cy='164' fill='#3be235' r='158' stroke='#082B33' stroke-width='8' />
+		<path style="fill:#082B33;" d="M164,430 L32.5 258.5 L295.5 258.5 Z "/>
+		<path style="fill:#3be235;" d="M164,415 L39.5 255 L288.5 255 Z "/>
+		<circle cx='164' cy='164' fill='#fff' r='110' stroke='#082B33' stroke-width='8' />
+		<text x="164" y="204" text-anchor="middle" class="huge">1</text>
+	</g>
+	<g transform="translate(328 0)">
+		<circle cx='164' cy='164' fill='#eb3223' r='158' stroke='#082B33' stroke-width='8' />
+		<path style="fill:#082B33;" d="M164,430 L32.5 258.5 L295.5 258.5 Z "/>
+		<path style="fill:#eb3223;" d="M164,415 L39.5 255 L288.5 255 Z "/>
+		<circle cx='164' cy='164' fill='#fff' r='110' stroke='#082B33' stroke-width='8' />
+		<text x="164" y="204" text-anchor="middle" class="huge">1</text>
+	</g>
+	<g transform="translate(656 0)">
+		<circle cx='164' cy='164' fill='#fdbd39' r='158' stroke='#082B33' stroke-width='8' />
+		<path style="fill:#082B33;" d="M164,430 L32.5 258.5 L295.5 258.5 Z "/>
+		<path style="fill:#fdbd39;" d="M164,415 L39.5 255 L288.5 255 Z "/>
+		<circle cx='164' cy='164' fill='#fff' r='110' stroke='#082B33' stroke-width='8' />
+		<text x="164" y="204" text-anchor="middle" class="huge">1</text>
+	</g>
+
+	<g transform="translate(0 $Y$)">
+		<circle cx='164' cy='164' fill='#3be235' r='158' stroke='#082B33' stroke-width='8' />
+		<path style="fill:#082B33;" d="M164,430 L32.5 258.5 L295.5 258.5 Z "/>
+		<path style="fill:#3be235;" d="M164,415 L39.5 255 L288.5 255 Z "/>
+		<circle cx='164' cy='164' fill='#fff' r='110' stroke='#082B33' stroke-width='8' />
+		<text x="164" y="204" text-anchor="middle" class="huge">$SEQ$</text>
+	</g>
+	<g transform="translate(328 $Y$)">
+		<circle cx='164' cy='164' fill='#eb3223' r='158' stroke='#082B33' stroke-width='8' />
+		<path style="fill:#082B33;" d="M164,430 L32.5 258.5 L295.5 258.5 Z "/>
+		<path style="fill:#eb3223;" d="M164,415 L39.5 255 L288.5 255 Z "/>
+		<circle cx='164' cy='164' fill='#fff' r='110' stroke='#082B33' stroke-width='8' />
+		<text x="164" y="204" text-anchor="middle" class="huge">$SEQ$</text>
+	</g>
+	<g transform="translate(656 $Y$)">
+		<circle cx='164' cy='164' fill='#fdbd39' r='158' stroke='#082B33' stroke-width='8' />
+		<path style="fill:#082B33;" d="M164,430 L32.5 258.5 L295.5 258.5 Z "/>
+		<path style="fill:#fdbd39;" d="M164,415 L39.5 255 L288.5 255 Z "/>
+		<circle cx='164' cy='164' fill='#fff' r='110' stroke='#082B33' stroke-width='8' />
+		<text x="164" y="204" text-anchor="middle" class="huge">$SEQ$</text>
+	</g>
+</svg>
